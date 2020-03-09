@@ -1,0 +1,6 @@
+C:\Users\Niyaz\OneDrive\Visual Studio Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojAssemblyReference.cache
+C:\Users\Niyaz\OneDrive\Visual Studio Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\Niyaz\OneDrive\Visual Studio Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\Niyaz\OneDrive\Visual Studio Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\Niyaz\OneDrive\Visual Studio Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\Niyaz\OneDrive\Visual Studio Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
